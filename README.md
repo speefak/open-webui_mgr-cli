@@ -15,3 +15,6 @@
         #   • Open-WebUI installed in ~/.open-webui
         #   • venv environment with open-webui package
         #   • screen, curl, ss, firefox installed
+
+        
+https://github.com/speefak/open-webui_mgr-cli/blob/main/open-webui_mgr_cli_v0.3.jpg?raw=true
