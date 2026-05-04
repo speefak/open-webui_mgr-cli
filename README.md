@@ -16,5 +16,13 @@
         #   • venv environment with open-webui package
         #   • screen, curl, ss, firefox installed
 
+
+
+
+
+<div align="center">
+  <img src="[pfad/zum/bild.png](https://github.com/speefak/open-webui_mgr-cli/blob/main/open-webui_mgr_cli_v0.3.jpg" alt="Beschreibung des Bildes" width="300" />
+</div>
+
         
 ![image_alt](https://github.com/speefak/open-webui_mgr-cli/blob/main/open-webui_mgr_cli_v0.3.jpg?raw=true)
