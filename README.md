@@ -20,5 +20,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/speefak/open-webui_mgr-cli/raw/main/open-webui_mgr_cli_v0.3.jpg" alt="Beschreibung des Bildes" width="900" />
+  <img src="https://github.com/speefak/open-webui_mgr-cli/raw/main/open-webui_mgr_cli_v0.3.jpg"  />
 </div>
