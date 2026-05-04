@@ -17,4 +17,4 @@
         #   • screen, curl, ss, firefox installed
 
         
-https://github.com/speefak/open-webui_mgr-cli/blob/main/open-webui_mgr_cli_v0.3.jpg?raw=true
+!image_alt(https://github.com/speefak/open-webui_mgr-cli/blob/main/open-webui_mgr_cli_v0.3.jpg?raw=true)
